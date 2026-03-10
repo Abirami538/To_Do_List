@@ -221,7 +221,8 @@ renderTasks();
 
 ## OUTPUT
 
-<img width="1898" height="1087" alt="image" src="https://github.com/user-attachments/assets/094b3efc-7dbe-4924-b3fb-6b2389309471" />
+<img width="1592" height="923" alt="Screenshot 2026-03-10 135706" src="https://github.com/user-attachments/assets/a5b84fda-53ba-4aa2-91af-0ad6e7d99dd1" />
+
 
 
 ## RESULT
